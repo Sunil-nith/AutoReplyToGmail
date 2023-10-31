@@ -158,6 +158,6 @@ function main(auth) {
 
 // Start the Express app and listen on the specified port
 app.listen(port, () => {
-    console.log(`Example app listening at http://localhost:${port}`);
+    console.log(` App is listening at http://localhost:${port}`);
     console.log(`Go to http://localhost:${port} in your web browser to authenticate this app with your Gmail account.`);
 });

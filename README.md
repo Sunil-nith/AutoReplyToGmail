@@ -6,7 +6,7 @@
 
 
 
-### technologies and libraries used.
+### Technologies and libraries used.
 
 1. **Express.js**: This is a popular Node.js web application framework used for creating web servers and handling HTTP requests. In your code, Express is used to set up a web server that listens on port 8080.
 
